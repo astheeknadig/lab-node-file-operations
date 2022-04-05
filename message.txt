@@ -1,0 +1,1 @@
+{"Name":"Astheek Nadig","Year":2022,"Qualification":"B.Tech","Userid":2401,"Username":"nadiga","Password":"85058c10a6e378f90b1aab27de2e62ebacb32bf4b00dfee7076adb6dfa52efde"}
